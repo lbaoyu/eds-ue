@@ -19,6 +19,11 @@
     "id": "title",
     "fields": [
       {
+        "component": "aem-tag",
+        "name": "titleTag",
+        "label": "Title Tag"
+      },
+      {
         "component": "text",
         "name": "title",
         "label": "Title"
