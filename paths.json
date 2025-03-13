@@ -2,6 +2,7 @@
   "mappings": [
     "/content/eds-ue/:/",
     "/content/eds-ue/configuration:/.helix/config.json",
+    "/content/eds-ue/taxomomy:/taxomomy.json",
     "/content/eds-ue/metadata:/metadata.json"
   ]
 }
